@@ -24,7 +24,7 @@ A simple currency converter web application built with React. This app allows us
    npm start
 
 ## Technologies Used
-React
-Material UI
-Exchangerate API (for fetching exchange rates)
+- React
+- Material UI
+- Exchangerate API (for fetching exchange rates)
 
