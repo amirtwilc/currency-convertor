@@ -17,10 +17,13 @@ A simple currency converter web application built with React. This app allows us
    ```bash
    git clone https://github.com/YOUR_USERNAME/currency-converter.git
 2. Navigate to the project directory:
+   ```bash
    cd currency-converter
 3. Install the dependencies:
+   ```bash
    npm install
 4. Start the development server:
+   ```bash
    npm start
 
 ## Technologies Used
